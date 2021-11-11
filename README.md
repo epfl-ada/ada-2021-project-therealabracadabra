@@ -27,18 +27,27 @@ Another question would be to verify if our study which will be based only on quo
 ### Methods
 
 For this milestone, two medias have been chosen: Foxnews and The New York Times. Both are polarized, Foxnews is in favor of more conservative political positions and is mainly viewed by Republican partisans (figure below) while [NYT is more left-leaning](https://www.influencewatch.org/for-profit/new-york-times/) and followed mainly by Democrats (figure below).
+
 ![alt text](<a href="https://www.statista.com/chart/21328/party-affiliation-by-news-source/" title="Infographic: Party Affiliation Defines News Sources | Statista"><img src="https://cdn.statcdn.com/Infographic/images/normal/21328.jpeg" alt="Infographic: Party Affiliation Defines News Sources | Statista" width="50%" height="auto" style="width: 50%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/><a/>)
 
 First of all, the data has to be wrangled. A check-up has to be made, to clean the dataset and remove any anomaly. Lines containing NaN or 0 had been removed as well as duplicates…. (COMPLETE MANU) A new column with the journal name should be added, because the raw data only has the website URL, and this will make it simpler to process the data.
+
 Once these modifications are made, we can start analysing it.
+
 We will first analyse how many quotations are from Republicans and how many from Democrats. To do so,. we will use two different sets, one set with Republicans names and one with Democrats names.
 
 We will also focus on 5 subjects on which Democrats and Republicans seem to disagree on. With an appropriate key word lexic for each to follow:
+
 •	Immigration: “immigration”, “wall”, “mexic”
+
 •	Terrorism/Gun control: “shoot”, “gun”, “kill”, “attack”, “massacre”, “victim”, “black”, “white”, “terroris”,”arm”
+
 •	Climate change
+
 •	Abortion
+
 •	Religion: “God”, “Christian”, “Christianism”
+
 The idea would be to analyse if there is a significant difference in the used terms. Moreover, we would like to highlight the mostly used words by category and by year for both medias.
 
 We also plan to make a sentimental analysis on the newspapers. The emotions categories would be defined as follow: disgust, fear, trust, anger, sadness, positive, negative. The key words for each category will be taken from the annex from the table E of the paper ["Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings"](https://github.com/ddemszky/framing-twitter/blob/master/paper/ddemszky2019analyzing.pdf).
