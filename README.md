@@ -41,12 +41,15 @@ We will also focus on 5 subjects on which Democrats and Republicans seem to disa
 
 •	**Religion**: “God”, “Christian”, “Christianism”
 
+•	**Racism**: "White", "Black", "Black lives matter", "All lives matter".
+
 The idea would be to analyse if there is a significant difference in the used terms. Moreover, we would like to highlight the mostly used words by category and by year for both medias.
 
 We also plan to make a **sentimental analysis** on the newspapers. The emotions categories would be defined as follow: disgust, fear, trust, anger, sadness, positive, negative. The key words for each category will be taken from the annex from the table E of the paper ["Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings"](https://github.com/ddemszky/framing-twitter/blob/master/paper/ddemszky2019analyzing.pdf).
 
 We also would like to see the probability of occurrence of the term “chloroquine” for both journals. As this treatment against Covid-19 is very controversial. Indeed, many researchers came to the conclusion that there is [no scientific evidence about its efficiency](https://www.rts.ch/info/sciences-tech/medecine/11345309-la-chloroquine-augmenterait-le-taux-de-mortalite-des-malades-du-covid.html), while other supports Doctor Didier Raoult and say that it  is a lie.
 
-(Following this paper results, we could also study the difference in the use of modal verbs and check whether our results are in concordance with the paper which had concluded that modal verbs are mostly used by Democrats)
+(Following this paper results, we could also study the difference in the use of modal verbs and check whether our results are in concordance with the paper which had concluded that modal verbs are mostly used by Democrats
+•	**Brexit**)
 
 At the end, we will take the “parameters” which significantly allow to make the difference between the two journals and affiliate them to a political belonging. And we will iterate the process on other journals to determine their political affiliation.
