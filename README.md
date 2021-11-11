@@ -31,17 +31,17 @@ We will first analyse how many quotations are from Republicans and how many from
 
 We will also focus on 5 subjects on which Democrats and Republicans seem to disagree on. With an appropriate key word lexic for each to follow:
 
-•	**Immigration**: “immigration”, “wall”, “mexic”
+•	**Immigration**: “immigration”, “wall”, “mexic”, "migrant","cross","border","illegal","escape","refugees","NGO","help"
 
-•	**Terrorism/Gun control**: “shoot”, “gun”, “kill”, “attack”, “massacre”, “victim”, “black”, “white”, “terroris”,”arm”
+•	**Terrorism/Gun control**: “shoot”, “gun”, “kill”, “attack”, “massacre”, “victim”, “black”, “white”, “terroris”,”arm”,"violen","death","ideology"
 
-•	**Climate change**
+•	**Climate change** : "fire", "flood", "greenhouse effect", "CO2", "global warming","pollution","glacier","ice pake melting","high temperatures", "strike","landslide","debris flow","heat"
 
-•	**Abortion**
+•	**Abortion**: "fetus","surgery","interdiction","life","illegal","conservative","medical","pregnant","amendment","criminal","extremism","kill", "morning-after pill","punishment"
 
-•	**Religion**: “God”, “Christian”, “Christianism”
+•	**Religion**: “God”, “Christian”, “Christianism”, "Extremism","Belief","faith","prayer","commitment","islam","buddhism","hinduism","baptism","church","Rome","vatican","reincarnation", "jesus", "peace"
 
-•	**Racism**: "White", "Black", "Black lives matter", "All lives matter".
+•	**Racism**: "White", "Black", "Black lives matter", "All lives matter", "Discrimination","Segregation","George Floyd","Slavery","White supremacy","Klu Klux Klan","KKK","Gunshot","Trials","Police","Death sentence"
 
 The idea would be to analyse if there is a significant difference in the used terms. Moreover, we would like to highlight the mostly used words by category and by year for both medias.
 
