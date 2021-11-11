@@ -14,10 +14,14 @@ This project aims at studying the political affiliation of some newspapers based
 ### Research questions
 
 Many questions have to be studied before defining the method. First, some journals have “centered” opinions or shaded positioning. That is why, the focus will be made on polarized newspapers, which will make it easier to study and define the parameters. 
+
 A first question would be: What are the main topics on which the newspaper diverge and do not agree? This one would have to be checked upstream, and then further developed using the dataset. 
+
 A second one would be to make a sentimental analysis of the quotations used in the newspapers and observe if there is any clear difference depending on the political affiliation. This paper, which had studied tweets from Republicans and Democrats, showed that both don’t use the same sentiments when discussing about guns shooting and also depending on the shooter race.
+
 A third research question would be to verify whether or not the newspapers cite more public figures which share their opinions.
 Another questions would be to study if there is any linguistic difference between the newspapers. As in this study about computational linguistics, which showed that Democrats use more modal verbs compared to Republicans to call for action.
+
 Another question would be to verify if our study which will be based only on quotations is accurate or not.
 
 ### Methods
