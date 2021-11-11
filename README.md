@@ -27,3 +27,4 @@ Another question would be to verify if our study which will be based only on quo
 ### Methods
 
 For this milestone, two medias have been chosen: Foxnews and The New York Times. Both are polarized, Foxnews is in favor of more conservative political positions and is mainly viewed by Republican partisans while NYT is more left-leaning and followed mainly by Democrats.
+![alt text](https://www.statista.com/chart/21328/party-affiliation-by-news-source/)
