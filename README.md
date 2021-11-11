@@ -21,7 +21,7 @@ Another question would be to verify if our study which will be based only on quo
 
 For this milestone, two medias have been chosen: Foxnews and The New York Times. Both are polarized, Foxnews is in favor of more conservative political positions and is mainly viewed by Republican partisans (figure below) while [NYT is more left-leaning](https://www.influencewatch.org/for-profit/new-york-times/) and followed mainly by Democrats (figure below).
 
-![alt text]("https://cdn.statcdn.com/Infographic/images/normal/21328.jpeg" width="50%" height="auto")
+![alt text](img src="https://cdn.statcdn.com/Infographic/images/normal/21328.jpeg" width="50%" height="auto")
 
 First of all, the data has to be wrangled. A check-up has to be made, to clean the dataset and remove any anomaly. Lines containing NaN or 0 had been removed as well as duplicates…. (COMPLETE MANU) A new column with the journal name should be added, because the raw data only has the website URL, and this will make it simpler to process the data.
 
