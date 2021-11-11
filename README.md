@@ -17,7 +17,7 @@ Many questions have to be studied before defining the method. First, some journa
 
 A first question would be: What are the main topics on which the newspaper diverge and do not agree? This one would have to be checked upstream, and then further developed using the dataset. 
 
-A second one would be to make a sentimental analysis of the quotations used in the newspapers and observe if there is any clear difference depending on the political affiliation. A *[paper] (https://engineering.stanford.edu/magazine/article/what-different-about-how-democrats-and-republicans-talk-online)* analyzing the differences between both parties, which had studied tweets from Republicans and Democrats, showed that both don’t use the same sentiments when discussing about guns shooting and also depending on the shooter race.
+A second one would be to make a sentimental analysis of the quotations used in the newspapers and observe if there is any clear difference depending on the political affiliation. A [paper] (https://engineering.stanford.edu/magazine/article/what-different-about-how-democrats-and-republicans-talk-online_) analyzing the differences between both parties, which had studied tweets from Republicans and Democrats, showed that both don’t use the same sentiments when discussing about guns shooting and also depending on the shooter race.
 
 A third research question would be to verify whether or not the newspapers cite more public figures which share their opinions.
 Another questions would be to study if there is any linguistic difference between the newspapers. As in this study about computational linguistics, which showed that Democrats use more modal verbs compared to Republicans to call for action.
