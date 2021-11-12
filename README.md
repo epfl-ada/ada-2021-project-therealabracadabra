@@ -43,13 +43,31 @@ We will also focus on 5 subjects on which Democrats and Republicans seem to disa
 
 •	**Racism**: "White", "Black", "Black lives matter", "All lives matter", "Discrimination","Segregation","George Floyd","Slavery","White supremacy","Klu Klux Klan","KKK","Gunshot","Trials","Police","Death sentence"
 
+• We also would like to see the probability of occurrence of the term “chloroquine” for both journals. As this treatment against Covid-19 is very controversial. Indeed, many researchers came to the conclusion that there is [no scientific evidence about its efficiency](https://www.rts.ch/info/sciences-tech/medecine/11345309-la-chloroquine-augmenterait-le-taux-de-mortalite-des-malades-du-covid.html), while other supports Doctor Didier Raoult and say that it  is a lie.
+
 The idea would be to analyse if there is a significant difference in the used terms. Moreover, we would like to highlight the mostly used words by category and by year for both medias.
 
 We also plan to make a **sentimental analysis** on the newspapers. The emotions categories would be defined as follow: disgust, fear, trust, anger, sadness, positive, negative. The key words for each category will be taken from the annex from the table E of the paper ["Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings"](https://github.com/ddemszky/framing-twitter/blob/master/paper/ddemszky2019analyzing.pdf).
 
-We also would like to see the probability of occurrence of the term “chloroquine” for both journals. As this treatment against Covid-19 is very controversial. Indeed, many researchers came to the conclusion that there is [no scientific evidence about its efficiency](https://www.rts.ch/info/sciences-tech/medecine/11345309-la-chloroquine-augmenterait-le-taux-de-mortalite-des-malades-du-covid.html), while other supports Doctor Didier Raoult and say that it  is a lie.
+Once all these steps made, we will have to apply a probalistic test (t test for example), to calculate the p-value and look if there is a significant difference between both medias for each topic.
 
+Observational studies, 
 (Following this paper results, we could also study the difference in the use of modal verbs and check whether our results are in concordance with the paper which had concluded that modal verbs are mostly used by Democrats
 •	**Brexit**)
 
 At the end, we will take the “parameters” which significantly allow to make the difference between the two journals and affiliate them to a political belonging. And we will iterate the process on other journals to determine their political affiliation.
+
+### Proposed timeline and organization within the team
+According to the homeworks and projects deliverables. We will have three/four weeks to work on the milestone 3. The work will be split as follow:
+
+• Before the 26/11: Build all the dataframes that will be used for the analysis.
+
+• 29/11 - 5/12: Apply the methods given below: make the statistics, ... Begin the analysis of the results (graphs, tests of probability, ...) in order to select the parameters of interest.
+
+• 6/12 - 12/12: Get the political affiliation of some other journals using the key parameters found.
+
+• 13/12 - 16/12: Make better visualizations and put everything together in a article in order to facilitate the communication.
+
+The work will be split according to members availability. Each week, a minimum of 2 members will have to work on the project.
+
+### Questions
