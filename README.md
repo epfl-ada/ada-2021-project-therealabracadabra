@@ -15,6 +15,8 @@ A second one would be to make a sentimental analysis of the quotations used in t
 A third research question would be to verify whether or not the newspapers cite more public figures which share their opinions.
 Another questions would be to study if there is any linguistic and semantic difference between the newspapers. As in this study about computational semantics of language, which showed that Democrats use more modal verbs compared to Republicans to call for action.
 
+A fourth approach would be to determine the the importance of certain topics, depending on the political position of the journals. This would be done by looking at the percentage of quotes using a certain vocabulary. 
+
 Another question would be to verify if our study which will be based only on quotations is accurate or not.
 
 ### Methods
@@ -23,7 +25,7 @@ For this milestone, two medias have been chosen: Foxnews and The New York Times.
 
 <a href="https://www.statista.com/chart/21328/party-affiliation-by-news-source/" title="Infographic: Party Affiliation Defines News Sources | Statista"><img src="https://cdn.statcdn.com/Infographic/images/normal/21328.jpeg" alt="Infographic: Party Affiliation Defines News Sources | Statista" width="50%" height="auto" align="center" style="width: 50%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/></a>
 
-First of all, the data has to be wrangled. A check-up has to be made, to clean the dataset and remove any anomaly. If there were lines containing NaN or 0 they will be removed as well as duplicates. A new column with the journal name should be added, because the raw data only has the website URL, and this will make it simpler to process the data.
+First of all, the data has to be wrangled. A check-up has to be made, to clean the dataset and remove any anomaly. No lines containing NaN or 0 were found for the data of the 2020 but they will be removed as well as duplicates if they are found for the other years. Besides, some coherence checks were done to the data, such as a search to see if the speaker of the quotation is indeed the person that has the higher probability of having generated the quotation. A new column with the journal name should be added, because the raw data only has the website URL, and this will make it simpler to process the data.
 
 Once these modifications are made, we can start analysing it.
 
