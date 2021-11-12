@@ -25,7 +25,7 @@ For this milestone, two medias have been chosen: Foxnews and The New York Times.
 
 <a href="https://www.statista.com/chart/21328/party-affiliation-by-news-source/" title="Infographic: Party Affiliation Defines News Sources | Statista"><img src="https://cdn.statcdn.com/Infographic/images/normal/21328.jpeg" alt="Infographic: Party Affiliation Defines News Sources | Statista" width="50%" height="auto" align="center" style="width: 50%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/></a>
 
-First of all, the data has to be wrangled. A check-up has to be made, to clean the dataset and remove any anomaly. No lines containing NaN or 0 were found for the data of the 2020 but they will be removed as well as duplicates if they are found for the other years. Besides, some coherence checks were done to the data, such as a search to see if the speaker of the quotation is indeed the person that has the higher probability of having generated the quotation. A new column with the journal name should be added, because the raw data only has the website URL, and this will make it simpler to process the data.
+First of all, the data has to be wrangled. A check-up has to be made, to clean the dataset and remove any anomaly. A new column with the journal name should be added, because the raw data only has the website URL, and this will make it simpler to process the data.
 
 Once these modifications are made, we can start analysing it.
 
@@ -51,9 +51,7 @@ The idea would be to analyse if there is a significant difference in the used te
 
 We also plan to make a **sentimental analysis** on the newspapers. The emotions categories would be defined as follow: disgust, fear, trust, anger, sadness, positive, negative. The key words for each category will be taken from the annex from the table E of the paper ["Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings"](https://github.com/ddemszky/framing-twitter/blob/master/paper/ddemszky2019analyzing.pdf).
 
-Once all these steps made, we will have to apply a probalistic test (t test for example), to calculate the p-value and look if there is a significant difference between both medias for each topic.
-
-(add PCA)
+Once all these steps made, we will have to apply a probalistic test (t test for example), to calculate the p-value and look if there is a significant difference between both medias for each topic. To determine wich indicators are the most powerful, we will use a PCA algorithm, it will also be a way to test all of our hypothesis.
 
 At the end, we will take the “parameters” which significantly allow to make the difference between the two journals and affiliate them to a political belonging. And we will iterate the process on other journals to determine their political affiliation.
 
