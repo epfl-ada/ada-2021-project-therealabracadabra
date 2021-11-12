@@ -10,10 +10,10 @@ Many questions have to be studied before defining the method. First, some journa
 
 A first question would be: What are the main topics on which the newspaper diverge and do not agree? This one would have to be checked upstream, and then further developed using the dataset. 
 
-A second one would be to make a sentimental analysis of the quotations used in the newspapers and observe if there is any clear difference depending on the political affiliation. A [paper](https://engineering.stanford.edu/magazine/article/what-different-about-how-democrats-and-republicans-talk-online) analyzing the differences between both parties, which had studied tweets from Republicans and Democrats, showed that both don’t use the same sentiments when discussing about guns shooting and also depending on the shooter race.
+A second one would be to make a sentimental analysis of the quotations used in the newspapers and observe if there is any clear difference depending on the political affiliation. This [paper](https://engineering.stanford.edu/magazine/article/what-different-about-how-democrats-and-republicans-talk-online) analyzing the differences between both parties, which had studied tweets from Republicans and Democrats, showed that both don’t use the same sentiments when discussing about guns shooting and also depending on the shooter race.
 
 A third research question would be to verify whether or not the newspapers cite more public figures which share their opinions.
-Another questions would be to study if there is any linguistic difference between the newspapers. As in this study about computational linguistics, which showed that Democrats use more modal verbs compared to Republicans to call for action.
+Another questions would be to study if there is any linguistic and semantic difference between the newspapers. As in this study about computational semantics of language, which showed that Democrats use more modal verbs compared to Republicans to call for action.
 
 Another question would be to verify if our study which will be based only on quotations is accurate or not.
 
@@ -23,7 +23,7 @@ For this milestone, two medias have been chosen: Foxnews and The New York Times.
 
 <a href="https://www.statista.com/chart/21328/party-affiliation-by-news-source/" title="Infographic: Party Affiliation Defines News Sources | Statista"><img src="https://cdn.statcdn.com/Infographic/images/normal/21328.jpeg" alt="Infographic: Party Affiliation Defines News Sources | Statista" width="50%" height="auto" align="center" style="width: 50%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/></a>
 
-First of all, the data has to be wrangled. A check-up has to be made, to clean the dataset and remove any anomaly. Lines containing NaN or 0 had been removed as well as duplicates…. (COMPLETE MANU) A new column with the journal name should be added, because the raw data only has the website URL, and this will make it simpler to process the data.
+First of all, the data has to be wrangled. A check-up has to be made, to clean the dataset and remove any anomaly. If there were lines containing NaN or 0 they will be removed as well as duplicates. A new column with the journal name should be added, because the raw data only has the website URL, and this will make it simpler to process the data.
 
 Once these modifications are made, we can start analysing it.
 
