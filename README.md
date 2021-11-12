@@ -12,10 +12,10 @@ A first question would be: What are the main topics on which the newspaper diver
 
 A second one would be to make a sentimental analysis of the quotations used in the newspapers and observe if there's any clear difference depending on the political affiliation. This [paper](https://engineering.stanford.edu/magazine/article/what-different-about-how-democrats-and-republicans-talk-online) analyzing the differences between both parties, which had studied tweets from Republicans and Democrats, showed that both don’t use the same sentiments when discussing about guns shooting and also depending on the shooter race.
 
-A third research question would be to verify whether or not the newspapers cite more public figures which share their opinions.
+A third research question would be to verify whether the newspapers cite more public figures which share their opinions.
 Another questions would be to study if there's any linguistic and semantic difference between the newspapers. As in this study about computational semantics of language, which showed that Democrats use more modal verbs compared to Republicans to call for action.
 
-A fourth approach would be to determine the the importance of certain topics, depending on the political position of the journals. This would be done by looking at the percentage of quotes using a certain vocabulary. 
+A fourth approach would be to determine the importance of certain topics, depending on the political position of the journals. This would be done by looking at the percentage of quotes using a certain vocabulary. 
 
 Another question would be to verify if our study which will be based only on quotations is accurate or not.
 
