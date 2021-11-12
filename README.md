@@ -31,17 +31,17 @@ We will first analyse how many quotations are from Republicans and how many from
 
 We will also focus on 5 subjects on which Democrats and Republicans seem to disagree on. With an appropriate key word lexic for each to follow:
 
-•	**Immigration**: “immigration”, “wall”, “mexic”, "migrant","cross","border","illegal","escape","refugees","NGO","help"
+•	**Immigration**: “immigration”, “mexic”, "migrant","border","refugees"
 
-•	**Terrorism/Gun control**: “shoot”, “gun”, “kill”, “attack”, “massacre”, “victim”, “black”, “white”, “terroris”,”arm”,"violen","death","ideology"
+•	**Terrorism/Gun control**: “shoot”, “gun”, “kill”, “attack”, “massacre”, “victim”, “terroris”,”arm”,"violen","death"
 
-•	**Climate change** : "fire", "flood", "greenhouse effect", "CO2", "global warming","pollution","glacier","ice pake melting","high temperatures", "strike","landslide","debris flow","heat"
+•	**Climate change** : "flood", "greenhouse effect", "CO2", "global warming","pollution","glacier","ice pake melting","high temperatures", "heat"
 
-•	**Abortion**: "fetus","surgery","interdiction","life","illegal","conservative","medical","pregnant","amendment","criminal","extremism","kill", "morning-after pill","punishment"
+•	**Abortion**: "abort", "fetus"
 
-•	**Religion**: “God”, “Christian”, “Christianism”, "Extremism","Belief","faith","prayer","commitment","islam","buddhism","hinduism","baptism","church","Rome","vatican","reincarnation", "jesus", "peace"
+•	**Religion**: “God”, “Christian”, “Christianism”, "Belief", "faith", "prayer", "commitment","islam","buddhism","hinduism","baptism","church","vatican","reincarnation", "jesus"
 
-•	**Racism**: "White", "Black", "Black lives matter", "All lives matter", "Discrimination","Segregation","George Floyd","Slavery","White supremacy","Klu Klux Klan","KKK","Gunshot","Trials","Police","Death sentence"
+•	**Racism**: "White", "Black", "Black lives matter", "All lives matter", "discrimination","Segregation","George Floyd","Slaver","White supremacy","Klu Klux Klan","KKK","Gunshot","Trials","Police","Death sentence"
 
 • We also would like to see the probability of occurrence of the term “chloroquine” for both journals. As this treatment against Covid-19 is very controversial. Indeed, many researchers came to the conclusion that there is [no scientific evidence about its efficiency](https://www.rts.ch/info/sciences-tech/medecine/11345309-la-chloroquine-augmenterait-le-taux-de-mortalite-des-malades-du-covid.html), while other supports Doctor Didier Raoult and say that it  is a lie.
 
@@ -51,9 +51,7 @@ We also plan to make a **sentimental analysis** on the newspapers. The emotions 
 
 Once all these steps made, we will have to apply a probalistic test (t test for example), to calculate the p-value and look if there is a significant difference between both medias for each topic.
 
-Observational studies, 
-(Following this paper results, we could also study the difference in the use of modal verbs and check whether our results are in concordance with the paper which had concluded that modal verbs are mostly used by Democrats
-•	**Brexit**)
+(add PCA)
 
 At the end, we will take the “parameters” which significantly allow to make the difference between the two journals and affiliate them to a political belonging. And we will iterate the process on other journals to determine their political affiliation.
 
@@ -71,3 +69,4 @@ According to the homeworks and projects deliverables. We will have three/four we
 The work will be split according to members availability. Each week, a minimum of 2 members will have to work on the project.
 
 ### Questions
+How will we be sure that the factors founded will have the same impact on other journals? Will we have to select journals from the same country ? Or maybe try to treat the problem as an observational study and match the newspapers together as a function of their covariates?
