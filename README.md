@@ -31,7 +31,7 @@ Once these modifications are made, we can start analysing it.
 
 We will first analyse how many quotations are from Republicans and how many from Democrats. To do so, we will use two different sets, one set with Republicans names and one with Democrats names.
 
-We will also focus on 5 subjects on which Democrats and Republicans seem to disagree on. With an appropriate key word lexic for each to follow:
+We will also focus on several subjects on which Democrats and Republicans seem to disagree on. With an appropriate key word lexic for each to follow:
 
 •	**Immigration**: “immigration”, “mexic”, "migrant","border","refugees"
 
@@ -45,7 +45,7 @@ We will also focus on 5 subjects on which Democrats and Republicans seem to disa
 
 •	**Racism**: "White", "Black", "Black lives matter", "All lives matter", "discrimination","Segregation","George Floyd","Slaver","White supremacy","Klu Klux Klan","KKK","Gunshot","Trials","Police","Death sentence"
 
-• We also would like to see the probability of occurrence of the term “chloroquine” for both journals. As this treatment against Covid-19 is very controversial. Indeed, many researchers came to the conclusion that there is [no scientific evidence about its efficiency](https://www.rts.ch/info/sciences-tech/medecine/11345309-la-chloroquine-augmenterait-le-taux-de-mortalite-des-malades-du-covid.html), while other supports Doctor Didier Raoult and say that it  is a lie.
+• **chloroquine”**
 
 The idea would be to analyse if there is a significant difference in the used terms. Moreover, we would like to highlight the mostly used words by category and by year for both medias.
 
