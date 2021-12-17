@@ -52,17 +52,20 @@ We also plan to make a **sentimental analysis** on the newspapers. The emotions 
 At the end, we will take the “parameters” which significantly allow to make the difference between the two journals and affiliate them to a political belonging. And we will iterate the process on other journals to determine their political affiliation.
 
 # Proposed timeline and organization within the team
-According to the homeworks and projects deliverables. We will have three/four weeks to work on the milestone 3. The work will be split as follow:
+Timeline:
 
-• Before the 26/11: Build all dataframes that will be used for the analysis.
+• 29/11 - 5/12: Build all files that will be used for the analysis.
 
-• 29/11 - 5/12: Apply the methods given below: make the statistics, ... Begin the analysis of the results (graphs, tests of probability, ...) to select the parameters of interest.
+• 26/12 - 12/12: Apply the methods given below and calculate the tests of probabilities.
 
-• 6/12 - 12/12: Get the political affiliation of some other journals using the key parameters found.
+• 12/12 - 17/12: Plot the graphs and apply the relevant methods on a 3rd newspaper.
 
-• 13/12 - 16/12: Make better visualizations and put everything together in a article to facilitate the communication.
+Organization:
+- François Charrouin:
+- Manuela Maia:
+- Marc Mettler:
+- Sinda M'Saada: Quotations pickle files creation, Topic detection and common nouns.
 
-The work will be split according to members availability. Each week, a minimum of 2 members will have to work on the project.
 
 # Website
 
