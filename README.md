@@ -70,6 +70,11 @@ Organization:
 - Marc Mettler: Website and datastory.
 - Sinda M'Saada: Quotations pickle files creation, topic detection and common nouns.
 
+## Files
+Readng_the_Big_Data.ipynb is the code that reads the chunks and saves the data as pickles. It is also where a filtering check is done. 
+Quotes_Analysis_AllYears.ipynb is the code that looks at the number of quotes per topic and for all years. It is also where the number of quotes for democrats and republicans is analysed.
+Yearly_Quotes_Analysis.ipynb is the code that analysis all quotations realted to Fox News and New York Times by year for specific topics. It looks to the number of quotes.
+Covid_Sentiment_Analysis.ipynb is the code of sentiment analysis for the covid topic. 
 
 # Website
 [Link to our datastory](https://mmettler21.github.io/political_analysis/)
