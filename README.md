@@ -68,7 +68,7 @@ At the end, the “parameters” which significantly allow to make the differenc
 Timeline:
 - 29/11 - 5/12: Build all files that will be used for the analysis.
 - 26/12 - 12/12: Apply the methods given below and calculate the tests of probabilities.
-- 12/12 - 17/12: Plot the graphs and apply the relevant methods on a 3rd newspaper.
+- 12/12 - 17/12: Plot the graphs and apply the relevant methods on a 3rd newspaper. Webstite creation.
 
 Organization:
 - François Charroin: Sentiment and emotion analysis
