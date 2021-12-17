@@ -63,7 +63,7 @@ Timeline:
 
 Organization:
 - François Charrouin: Sentiment and emotion analysis
-- Manuela Maia: Filtering and creation of new files. Speakers and subjects occurences.
+- Manuela Maia: Filtering and creation of new files. Speakers and subjects occurences by years. Sentiment for covid-19 over 2020. 
 - Marc Mettler: Website and datastory.
 - Sinda M'Saada: Quotations pickle files creation, topic detection and common nouns.
 
