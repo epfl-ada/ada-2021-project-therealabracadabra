@@ -53,13 +53,13 @@ Quotations about some specific subjects have been counted for each journal, a t-
 A general sentiment analysis has been made for both newspapers for each year. An emotion analysis has also been made for each subject described above. 
 
 ## Verification
-At the end, the “parameters” which significantly allow to make the difference between the two journals are applied on a third newspaper. We have chosen the Washington post which has a ["lean left bias"] (https://www.allsides.com/news-source/washington-post-media-bias) as NY times.
+At the end, the “parameters” which significantly allow to make the difference between the two journals are applied on a third newspaper. We have chosen the Washington post which has a [lean left bias] (https://www.allsides.com/news-source/washington-post-media-bias) as NY times.
 
 # Proposed timeline and organization within the team
 Timeline:
-• 29/11 - 5/12: Build all files that will be used for the analysis.
-• 26/12 - 12/12: Apply the methods given below and calculate the tests of probabilities.
-• 12/12 - 17/12: Plot the graphs and apply the relevant methods on a 3rd newspaper.
+- 29/11 - 5/12: Build all files that will be used for the analysis.
+- 26/12 - 12/12: Apply the methods given below and calculate the tests of probabilities.
+- 12/12 - 17/12: Plot the graphs and apply the relevant methods on a 3rd newspaper.
 
 Organization:
 - François Charrouin: Sentiment and emotion analysis
