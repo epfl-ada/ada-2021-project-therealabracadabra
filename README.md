@@ -1,4 +1,4 @@
-# Are you a Democrat or a Republican newspapers reader ?
+# The Newspaper you read, your political seed
 
 [Link to our datastory](https://mmettler21.github.io/political_analysis/)
 
