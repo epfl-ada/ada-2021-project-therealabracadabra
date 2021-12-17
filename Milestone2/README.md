@@ -46,10 +46,10 @@ We will also focus on several subjects on which Democrats and Republicans seem t
 • **chloroquine”**
 
 ## Sentiment analysis
-We also plan to make a **sentimental analysis** on the newspapers. The emotions categories would be defined as follow: disgust, fear, trust, anger, sadness, positive, negative. The key words for each category will be taken from the annex from the table E of the paper ["Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings"](https://github.com/ddemszky/framing-twitter/blob/master/paper/ddemszky2019analyzing.pdf).
+A general sentiment analysis has been made for both newspapers on all years. An emotion analysis has also been made for each subject described above. BLABLA
 
-## Washington post
-At the end, we will take the “parameters” which significantly allow to make the difference between the two journals and affiliate them to a political belonging. And we will iterate the process on other journals to determine their political affiliation.
+## Verification
+At the end, the “parameters” which significantly allow to make the difference between the two journals are applied on a third newspaper. We have chosen the Washington post which has a ["lean left bias"] (https://www.allsides.com/news-source/washington-post-media-bias) as NY times.
 
 # Proposed timeline and organization within the team
 Timeline:
@@ -61,10 +61,10 @@ Timeline:
 • 12/12 - 17/12: Plot the graphs and apply the relevant methods on a 3rd newspaper.
 
 Organization:
-- François Charrouin:
-- Manuela Maia:
-- Marc Mettler:
-- Sinda M'Saada: Quotations pickle files creation, Topic detection and common nouns.
+- François Charrouin: Sentiment and emotion analysis
+- Manuela Maia: Filtering and creation of new files. Speakers and subjects occurences.
+- Marc Mettler: Website and datastory.
+- Sinda M'Saada: Quotations pickle files creation, topic detection and common nouns.
 
 
 # Website
