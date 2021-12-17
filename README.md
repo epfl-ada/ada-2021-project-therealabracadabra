@@ -50,6 +50,10 @@ Quotations about some specific subjects have been counted for each journal, a t-
 
 ## Sentiment analysis
 A general sentiment analysis has been made for both newspapers for each year. An emotion analysis has also been made for each subject described above. 
+Multiple notebooks have been made because the processing is very long, especially for the text2emotion library, so it helps doing it simultaneously. 
+The first type of notebook is comprised of: 2015_2016_2017.ipynb, 2018.ipynb, 2019.ipynb, 2020+graphics.ipynb. On these notebooks the average value for sentiments and emotions by year, by journal is calculated. It was the initial work on the sentiment analysis, to see if it was relevant to continue working on it.
+The second type of notebook for the sentiment analysis is compriised of: sent_nltk_by_subject_V2.ipynb, sent_text2_by_subject_V2.ipynb, NLTK_Pvalue_yby.ipynb. This is the continuation of the first part. These contain a sentiment analysis for certain subjects such as immigration and religion. The main difference is that T-test are done on these three notebooks to establish the statiscal significance.
+And lastly the Washington_Post.ipynb is a notebook where various types of sentiment analysis done in previous notebooks are done on the third journal, and a comparison with the two other journals with some graphics is also present.
 
 ## Verification
 At the end, the “parameters” which significantly allow to make the difference between the two journals are applied on a third newspaper. We have chosen the Washington post which has a [lean left bias] (https://www.allsides.com/news-source/washington-post-media-bias) as NY times.
@@ -61,7 +65,7 @@ Timeline:
 - 12/12 - 17/12: Plot the graphs and apply the relevant methods on a 3rd newspaper.
 
 Organization:
-- François Charrouin: Sentiment and emotion analysis
+- François Charroin: Sentiment and emotion analysis
 - Manuela Maia: Filtering and creation of new files. Speakers and subjects occurences by years. Sentiment for covid-19 over 2020. 
 - Marc Mettler: Website and datastory.
 - Sinda M'Saada: Quotations pickle files creation, topic detection and common nouns.
