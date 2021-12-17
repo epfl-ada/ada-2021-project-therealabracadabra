@@ -27,7 +27,7 @@ The problem was that reading the chunks one after the other from the pickle file
 exceeded 150 Gigabytes!).
 Consequently, an alternative was proposed : the approach was to only keep the two journals data of interest and to save one pickle per chunk. All these pickle files have been saved by year. Then, we also saved lists of quotations for each newspaper we were interested in by year.
 - Readng_the_Big_Data.ipynb is the code that reads the chunks and saves the data as pickles. It is also where a filtering check is done. 
-- 
+
 ## Topic detection and common nouns
 For each News paper we used Latent Dirichlet Allocation (LDA) which is an unsupervised method and by specifying the number of topics returns a set of word for each topic. The document, so in our case the quotations of each journal has to be modified into bag of words and the each topic is a probability distribution over words. First, we determined the ideal number of topics for the newspaper, by using a coherence model and iterating over different number of topics (from 2 to 10). Then we have taken the number which corresponds to the highest score and we have plot the topics using PyLDAvis. This has been made in the Topic_detection.ipynb file.
 The 30 most used nouns in both journals have been generated using the Analyse 1.ipynb file and have been saved. 
@@ -51,7 +51,7 @@ Quotations about some specific subjects have been counted for each journal, a t-
 
 - Quotes_Analysis_AllYears.ipynb is the code that looks at the number of quotes per topic and for all years. It is also where the number of quotes for democrats and republicans is analysed.
 - Yearly_Quotes_Analysis.ipynb is the code that analysis all quotations realted to Fox News and New York Times by year for specific topics. It looks to the number of quotes.
-- 
+
 ## Sentiment analysis
 A general sentiment analysis has been made for both newspapers for each year. An emotion analysis has also been made for each subject described above. 
 Multiple notebooks have been made because the processing is very long, especially for the text2emotion library, so it helps doing it simultaneously. 
@@ -60,7 +60,7 @@ The second type of notebook for the sentiment analysis is compriised of: sent_nl
 And lastly the Washington_Post.ipynb is a notebook where various types of sentiment analysis done in previous notebooks are done on the third journal, and a comparison with the two other journals with some graphics is also present.
 
 - Covid_Sentiment_Analysis.ipynb is the code of sentiment analysis for the covid topic. 
-- 
+
 ## Verification
 At the end, the “parameters” which significantly allow to make the difference between the two journals are applied on a third newspaper. We have chosen the Washington post which has a [lean left bias] (https://www.allsides.com/news-source/washington-post-media-bias) as NY times.
 
